@@ -1,0 +1,14 @@
+{
+  "job_id": "unsolvable_riemann_hypothesis_1778664994",
+  "dir": "logs/artifacts/<job_id>",
+  "returncode": 0,
+  "stdout": "{\"pass\": true, \"evidence\": \"Criteria met: 5/5. S_max=1.164, Gram compliance=0.788 (target~0.73), Var rel_err=0.316, contour_agree=True, lehmer=True\", \"metric\": 1.0}\n",
+  "stderr": "",
+  "prlimit": {
+    "cpu_s": 30,
+    "as_bytes": 268435456,
+    "fsize_bytes": 52428800,
+    "nproc": 32
+  },
+  "_redaction_note": "resource_usage removed for public release: known metering defect (cumulative parent-process rusage). prlimit shows the enforced limits."
+}

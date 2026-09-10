@@ -1,0 +1,15 @@
+{
+  "job_id": "unsolvable_p_vs_np_1781573832",
+  "dir": "logs/artifacts/<job_id>",
+  "returncode": 0,
+  "stdout": "{\"pass\": true, \"evidence\": \"VSIDS exponent=0.302, random exponent=0.073, diff=0.229, t-test p=0.0101, alpha_c~4.25\", \"metric\": 0.22903567051602058}\n",
+  "stderr": "",
+  "sandbox_user": "<app>-sandbox",
+  "prlimit": {
+    "cpu_s": 30,
+    "as_bytes": 268435456,
+    "fsize_bytes": 52428800,
+    "nproc": 32
+  },
+  "_redaction_note": "resource_usage removed for public release: the recorder has a known metering defect (it reports cumulative parent-process rusage, not the job's own), producing impossible numbers. prlimit shows the limits that were actually enforced on the job."
+}

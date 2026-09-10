@@ -1,0 +1,15 @@
+{
+  "job_id": "9e5b0b5d-c43d-4c05-b05c-ab7f044ea287",
+  "dir": "logs/artifacts/<job_id>",
+  "returncode": 0,
+  "stdout": "{\"pass\": false, \"evidence\": \"Classical |S|=2.0095 (bound=2.0, respects=True); Quantum |S|=2.8238 (violates=True, Tsirelson=2.8284, within=True); Bayesian consistency error=0.1697; System health=ok\", \"metric\": 0.8238}\n",
+  "stderr": "",
+  "sandbox_user": "<app>-sandbox",
+  "prlimit": {
+    "cpu_s": 30,
+    "as_bytes": 268435456,
+    "fsize_bytes": 52428800,
+    "nproc": 32
+  },
+  "_redaction_note": "resource_usage removed for public release: the recorder has a known metering defect (it reports cumulative parent-process rusage, not the job's own), producing impossible numbers. prlimit shows the limits that were actually enforced on the job."
+}

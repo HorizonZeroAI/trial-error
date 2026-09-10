@@ -1,0 +1,15 @@
+{
+  "job_id": "foundry_409b07bb_1778805430",
+  "dir": "logs/artifacts/<job_id>",
+  "returncode": 0,
+  "stdout": "Running Part 1: External Control Impossibility...\nRunning Part 2: Intrinsic Safety Necessity...\nRunning Part 3: Structural Requirements...\n",
+  "stderr": "",
+  "sandbox_user": "<app>-sandbox",
+  "prlimit": {
+    "cpu_s": 30,
+    "as_bytes": 268435456,
+    "fsize_bytes": 52428800,
+    "nproc": 32
+  },
+  "_redaction_note": "resource_usage removed for public release: known metering defect (cumulative parent-process rusage). prlimit shows the enforced limits."
+}

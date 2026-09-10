@@ -1,0 +1,1 @@
+{"pass": true, "evidence": "P1-External impossibility: scaling_exp=9.23 (supported=True). P2-Intrinsic necessity: ext_safe=0.252, int_safe=0.995, improvement=2.95 (superior=True). P3-Structure: AUCs={centralized:0.378, distributed:0.457, hierarchical:0.129, mesh:0.500}, mesh_best=True, redundancy_matters=True.", "metric": 1.0}

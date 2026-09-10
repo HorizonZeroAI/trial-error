@@ -1,0 +1,1 @@
+{"pass": true, "evidence": "40000 forward + 40000 reverse Langevin trajectories. Crooks slope=1.0116 (theory 1.0, OK, 40 overlap bins). Jarzynski <e^-bW>=0.9919 (theory 1.0, OK). <W_F>=0.8663 (OK).", "metric": 0.9884}

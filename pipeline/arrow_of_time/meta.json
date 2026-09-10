@@ -1,0 +1,15 @@
+{
+  "job_id": "unsolvable_nature_of_time_1775063197",
+  "dir": "logs/artifacts/<job_id>",
+  "returncode": 0,
+  "stdout": "{\"pass\": true, \"evidence\": \"Entropy increase: True, ML accuracy: 1.000, Fluctuation test: True\", \"metric\": 1.0}\n",
+  "stderr": "",
+  "sandbox_user": "<app>-sandbox",
+  "prlimit": {
+    "cpu_s": 30,
+    "as_bytes": 268435456,
+    "fsize_bytes": 52428800,
+    "nproc": 32
+  },
+  "_redaction_note": "resource_usage removed for public release: known metering defect (cumulative parent-process rusage). prlimit shows the enforced limits."
+}

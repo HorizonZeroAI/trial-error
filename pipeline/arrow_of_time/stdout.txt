@@ -1,0 +1,1 @@
+{"pass": true, "evidence": "Entropy increase: True, ML accuracy: 1.000, Fluctuation test: True", "metric": 1.0}

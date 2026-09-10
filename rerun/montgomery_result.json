@@ -1,0 +1,1 @@
+{"pass": true, "evidence": "600 genuine mpmath zeros (dps=15). Wigner-GUE spacing KS=0.0478, p=0.1250 (consistent). Montgomery R2 mean abs error=0.0637 over [0.25,3] (tracks GUE). elapsed=109.1s", "metric": 0.9363}

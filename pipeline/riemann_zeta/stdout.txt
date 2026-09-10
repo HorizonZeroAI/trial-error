@@ -1,0 +1,1 @@
+{"pass": true, "evidence": "Criteria met: 5/5. S_max=1.164, Gram compliance=0.788 (target~0.73), Var rel_err=0.316, contour_agree=True, lehmer=True", "metric": 1.0}

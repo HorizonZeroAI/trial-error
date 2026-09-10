@@ -1,0 +1,1 @@
+{"pass": true, "evidence": "VSIDS exponent=0.302, random exponent=0.073, diff=0.229, t-test p=0.0101, alpha_c~4.25", "metric": 0.22903567051602058}

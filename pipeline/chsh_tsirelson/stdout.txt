@@ -1,0 +1,1 @@
+{"pass": false, "evidence": "Classical |S|=2.0095 (bound=2.0, respects=True); Quantum |S|=2.8238 (violates=True, Tsirelson=2.8284, within=True); Bayesian consistency error=0.1697; System health=ok", "metric": 0.8238}
